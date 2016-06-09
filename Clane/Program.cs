@@ -32,7 +32,6 @@ namespace Clane
                     {
                         case "f":
                         case "F":
-
                             break;
                         case "c":
                         case "C":
