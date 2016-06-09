@@ -9,9 +9,16 @@ namespace Clane
 {
     class Program
     {
-        private SQLiteConnection sql_con;
+        private SQLiteConnection sqlCon;
         static void Main(string[] args)
         {
+
+            //SQLiteConnection con = new SQLiteConnection("Data Source=Clane.sqlite;Version=3;");
+            //SQLiteCommand scom = new SQLiteCommand("create table News (Href nvarchar(200),Page int,Title nvarchar(500),Date datetime,Classified bit)", con);
+            //con.Open();
+            //scom.ExecuteNonQuery();
+            //con.Close();
+
             Console.WriteLine("Welcome!\nFor fetching news enter 'f', \nfor continue classification enter 'c' \nand for exit enter 'e'\n:");
             string input = "";
             var mainLoop = true;
@@ -45,6 +52,7 @@ namespace Clane
                 }
             }
             Console.ReadLine();
+
         }
     }
 

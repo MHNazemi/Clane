@@ -1,1 +1,12 @@
 c:\users\nazem\documents\visual studio 2015\Projects\Clane\Clane\bin\Debug\Clane.exe.config
+C:\Users\Nazem\Documents\Visual Studio 2015\Projects\Clane\Clane\bin\Debug\Clane.exe
+C:\Users\Nazem\Documents\Visual Studio 2015\Projects\Clane\Clane\bin\Debug\Clane.pdb
+C:\Users\Nazem\Documents\Visual Studio 2015\Projects\Clane\Clane\bin\Debug\EntityFramework.dll
+C:\Users\Nazem\Documents\Visual Studio 2015\Projects\Clane\Clane\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nazem\Documents\Visual Studio 2015\Projects\Clane\Clane\bin\Debug\System.Data.SQLite.dll
+C:\Users\Nazem\Documents\Visual Studio 2015\Projects\Clane\Clane\bin\Debug\EntityFramework.xml
+C:\Users\Nazem\Documents\Visual Studio 2015\Projects\Clane\Clane\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nazem\Documents\Visual Studio 2015\Projects\Clane\Clane\bin\Debug\System.Data.SQLite.xml
+C:\Users\Nazem\Documents\Visual Studio 2015\Projects\Clane\Clane\obj\Debug\Clane.csprojResolveAssemblyReference.cache
+C:\Users\Nazem\Documents\Visual Studio 2015\Projects\Clane\Clane\obj\Debug\Clane.exe
+C:\Users\Nazem\Documents\Visual Studio 2015\Projects\Clane\Clane\obj\Debug\Clane.pdb
